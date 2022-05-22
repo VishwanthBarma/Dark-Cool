@@ -1,9 +1,10 @@
 {
     "name": "dark-cool",
     "displayName": "Dark Cool",
-    "description": "The very cool dark theme great for mid night developers.",
-    "version": "1.0.0",
-    "publisher": "dark-cool",
+    "description": "The very cool dark theme for mid night developers.",
+    "version": "1.0.1",
+    "publisher": "darkcool",
+    "icon": "themes/icon/DarkCool.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/VishwanthBarma/Dark-Cool"
