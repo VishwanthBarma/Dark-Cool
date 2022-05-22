@@ -1,4 +1,3 @@
-![DarkCool](https://user-images.githubusercontent.com/72876374/169701788-885132d4-aaf3-48eb-90c7-4b36502aa56f.png)
 # This is a Visual Studio Code extension.
 
 ## Dark Cool - Theme
