@@ -3,7 +3,7 @@
 	"colors": {
 		"statusBar.debuggingBackground": "#d27a00",
 		"statusBar.foreground": "#ffffff",
-		"statusBar.background": "#00d897",
+		"statusBar.background": "#005f42",
 		"terminal.background": "#212121",
 		"list.hoverBackground": "#3b3b3b",
 		"sideBarSectionHeader.background": "#24383f",
