@@ -1,1 +1,3 @@
-This is the extension of vs-code called Dark Cool.
+# This is a Visual Studio Code theme extension.
+
+## Dark Cool
