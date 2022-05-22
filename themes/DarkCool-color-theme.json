@@ -1,15 +1,9 @@
  {
-	// 08d6b4
-	// ff67bb
-	// d9d9d9
-	// 6dd3ff
-	// 7cffb7
-	// fffc60
 	"name": "DarkCool",
 	"colors": {
 		"statusBar.debuggingBackground": "#d27a00",
 		"statusBar.foreground": "#ffffff",
-		"statusBar.background": "#828282",
+		"statusBar.background": "#00d897",
 		"terminal.background": "#212121",
 		"list.hoverBackground": "#3b3b3b",
 		"sideBarSectionHeader.background": "#24383f",
