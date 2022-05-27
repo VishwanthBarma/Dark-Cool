@@ -1,8 +1,8 @@
 {
     "name": "dark-cool",
     "displayName": "Dark Cool",
-    "description": "The very cool dark theme for mid night developers.",
-    "version": "4.0.1",
+    "description": "A cool dark theme for web developers.",
+    "version": "4.0.2",
     "publisher": "darkcool",
     "icon": "themes/icon/DarkCool.png",
     "repository": {
@@ -14,11 +14,14 @@
         "dark",
         "darkcook",
         "Dark Cool",
-        "Dark cook",
+        "Dark cool",
         "dark cool",
         "thedark",
         "one",
-        "atom"
+        "atom",
+        "cool",
+        "colour",
+        "color"
     ],
     "engines": {
         "vscode": "^1.67.0"
